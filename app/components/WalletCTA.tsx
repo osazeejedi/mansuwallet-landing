@@ -21,7 +21,7 @@ const WalletCTA = () => {
           <Reveal className="w-full text-center" width="100%">
             <div className="mb-12 xl:mb-16">
               <h2 className="text-3xl md:text-5xl xl:text-6xl 2xl:text-7xl font-bold mb-6 xl:mb-8">
-                Don't Miss Out on the Future
+                {"Don't Miss Out on the Future"}
               </h2>
               <p className="text-xl md:text-2xl xl:text-3xl 2xl:text-4xl text-pink-light mb-8 xl:mb-12 max-w-3xl xl:max-w-4xl 2xl:max-w-5xl mx-auto leading-relaxed">
                 Join thousands of early adopters who are already waiting for Mansu Wallet. 
