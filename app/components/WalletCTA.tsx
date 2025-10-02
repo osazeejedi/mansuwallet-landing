@@ -94,12 +94,12 @@ const WalletCTA = () => {
                 >
                   Join Waitlist
                 </Button>
-                <Button 
+                {/*<Button 
                   variant="outline" 
                   className="px-8 xl:px-12 py-3 xl:py-4 xl:text-lg border-primary text-primary hover:bg-primary hover:text-white"
                 >
                   Follow Updates
-                </Button>
+                </Button>*/}
               </div>
             </div>
           </Reveal>
