@@ -145,9 +145,9 @@ const WalletWaitlist: React.FC<WalletWaitlistProps> = ({ isOpen, onClose }) => {
           // Success state
           <div className="text-center py-8">
             <div className="text-green-500 text-5xl mb-4">✓</div>
-            <h2 className="text-2xl font-semibold mb-2 text-primary">Welcome to MansuWallet!</h2>
+            <h2 className="text-2xl font-semibold mb-2 text-primary">Welcome to Mansu Wallet!</h2>
             <p className="text-gray-600">
-              You&apos;re now on the waitlist for MansuWallet. We&apos;ll notify you as soon as we launch with exclusive early access!
+              You&apos;re now on the waitlist for Mansu Wallet. We&apos;ll notify you as soon as we launch with exclusive early access!
             </p>
           </div>
         ) : (
@@ -204,12 +204,12 @@ const WalletWaitlist: React.FC<WalletWaitlistProps> = ({ isOpen, onClose }) => {
                 className="w-full"
                 disabled={isLoading}
               >
-                {isLoading ? "Joining..." : "Join MansuWallet Waitlist"}
+                {isLoading ? "Joining..." : "Join Mansu Wallet Waitlist"}
               </Button>
             </form>
 
             <div className="mt-4 text-xs text-gray-500 text-center">
-              By joining, you agree to receive updates about MansuWallet launch and features.
+              By joining, you agree to receive updates about Mansu Wallet launch and features.
             </div>
           </>
         )}
