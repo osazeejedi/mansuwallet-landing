@@ -14,19 +14,21 @@ const WalletHero = () => {
         style={{ backgroundImage: `url(/assets/images/heroBg.png)` }}
         className="relative text-white flex flex-col justify-center items-center min-h-[600px] bg-black bg-center bg-cover bg-no-repeat"
       >
-        <div className="container mx-auto px-4 py-20 xl:py-24">
+        <div className="container mx-auto px-4 pt-32 pb-20 md:pt-40 lg:pt-56 xl:pt-24 xl:pb-24">
           {/* Logo */}
-          {/*<div className="absolute top-6 left-6 z-10 pl-16">
-            <div className="h-12 w-auto md:h-16">
-              <Image
-                src="/logo-white.png"
-                alt="Mansu Wallet Logo"
-                width={200}
-                height={80}
-                className="h-full w-auto object-contain"
-              />
+          <div className="absolute top-0 left-0 z-10 w-full">
+            <div className="container mx-auto px-4 flex justify-center lg:justify-start">
+              <div className="h-20 w-auto sm:h-24 md:h-28 lg:h-32 lg:-ml-4 xl:h-36">
+                <Image
+                  src="/mansu-symbol.png"
+                  alt="Mansu Wallet Logo"
+                  width={200}
+                  height={80}
+                  className="h-full w-auto object-contain"
+                />
+              </div>
             </div>
-          </div>*/}
+          </div>
           
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center min-h-[500px]">
             {/* Text Content */}
