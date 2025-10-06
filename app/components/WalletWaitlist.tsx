@@ -154,7 +154,7 @@ const WalletWaitlist: React.FC<WalletWaitlistProps> = ({ isOpen, onClose }) => {
           // Form state
           <>
             <div className="text-center mb-6">
-              <h2 className="text-2xl font-semibold mb-2 text-primary">Join MansuWallet Waitlist</h2>
+              <h2 className="text-2xl font-semibold mb-2 text-primary">Join Mansu Wallet Waitlist</h2>
               <p className="text-gray-600">
                 Be among the first to experience the future of digital payments. Get early access and exclusive benefits.
               </p>
