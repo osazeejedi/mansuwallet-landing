@@ -41,7 +41,7 @@ export default function PrivacyPolicy() {
         <div className="prose prose-lg max-w-none">
           <div className="bg-grey-light border-l-4 border-primary p-6 mb-8 rounded-r-lg">
             <p className="text-gray-700 leading-relaxed">
-              Mansu Technologies Ltd ("we", "our", "us") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, store, and protect the information you provide when you sign up for the Mansu Wallet waitlist.
+              Mansu Technologies Ltd (&quot;we&quot;, &quot;our&quot;, &quot;us&quot;) respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, store, and protect the information you provide when you sign up for the Mansu Wallet waitlist.
             </p>
           </div>
 
@@ -91,7 +91,7 @@ export default function PrivacyPolicy() {
             </h2>
             <ul className="list-disc pl-6 space-y-2 text-gray-700">
               <li>Your information will be stored securely and protected against unauthorized access, disclosure, or alteration.</li>
-              <li>We use appropriate technical and organizational measures in line with Ghana's Data Protection Act, 2012 (Act 843).</li>
+              <li>We use appropriate technical and organizational measures in line with Ghana&apos;s Data Protection Act, 2012 (Act 843).</li>
             </ul>
           </section>
 
@@ -111,7 +111,7 @@ export default function PrivacyPolicy() {
               Your Rights
             </h2>
             <p className="text-gray-700 mb-4">
-              Under Ghana's Data Protection Act, you have the right to:
+              Under Ghana&apos;s Data Protection Act, you have the right to:
             </p>
             <ul className="list-disc pl-6 space-y-2 text-gray-700">
               <li>Request access to the personal information we hold about you.</li>
